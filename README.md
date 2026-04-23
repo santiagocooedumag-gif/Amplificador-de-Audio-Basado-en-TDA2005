@@ -5,5 +5,5 @@ Este repositorio contiene la documentación técnica y los entregables del proye
 
 ## 📁 Estructura del Repositorio
 
-* `Informe de proyecto 2`: Contiene el informe técnico en formato editable.
-* `/presentación proyecto tda2005`: Diapositivas de la sustentación en PDF.
+* `Informe de proyecto 2`: Contiene el informe técnico en formato PDF.
+* `presentación proyecto tda2005`: Diapositivas de la sustentación en PDF.
